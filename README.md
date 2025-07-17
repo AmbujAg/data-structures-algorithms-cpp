@@ -1,4 +1,4 @@
-# DSA in C++ – Practice Repository
+# DSA in C++ Practice Repository
 
 This repository contains my solutions to Data Structures and Algorithms problems written in C++. I am using this to practice core concepts and improve my problem-solving skills.
 
